@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "fridge-app",
+    "libraryId": "d2ac1a39-dc5e-4e8d-aefa-728c35648abe",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fridgeApp",
+    "solutionShortDescription": "fridgeApp description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

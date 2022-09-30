@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "DanO Fridge App",
+    "id": "d2ac1a39-dc5e-4e8d-aefa-728c35648abe",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fridgeApp description"
+      },
+      "longDescription": {
+        "default": "fridgeApp description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fridge-app Feature",
+        "description": "The feature that activates elements of the fridge-app solution.",
+        "id": "aaa05501-4943-4096-bdf7-ed1d3be09c83",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fridge-app.sppkg"
+  }
+}
